@@ -44,7 +44,7 @@ In the file `css/cleanup.css`, write selectors that have more specificity
 (authority) than those that are showing the graffiti tags. You can test out
 writing classes in dev tools by clicking the `+` in the top right-hand corner of
 the pane. You can also click the `sources` tab and select `css/cleanup.css` in
-the dev tools pane. This allows you to edit the CSS file directly. It _won't_
+the dev tools pane. This allows you to edit the CSS file directly. It _won't_ 
 save your edits, but it will give a live update of changes so that it's easier
 to manipulate the DOM without refreshing the page. From there, you can copy and
 paste your working changes into the file.
